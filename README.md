@@ -27,11 +27,11 @@ There should be no necessary libraries to run the code here beyond the libraries
 
 For this project, I was interested in using Stack Overflow data from 2014 to 2018 to better understand:
 
-1. Which country offers the best standard of living for a software developer if we factor in implied purchasing power parity?
-2. If a developer codes as a hobby besides coding at work, does it have any positive impact on his salary?
-3. Why developers start actively looking for a new job. Does salary have anything to do with it?
-4. Is it really true that data scientists earn more than other developers?
-5. If data scientists do earn more, are they earning more in all countries?
+1. Which country offers the best standard of living for a software developer?
+2. If a developer codes as a hobby, does it have a positive influence on his remuneration?
+3. Why developers start actively looking for a new job. Does it have anything to do with their compensation in the present job?
+4. Do data scientist earn more than non data scientists on average?
+5. Do data scientists earn more on average than non data scientists in all top ten economies?
 
 
 ## File Descriptions <a name="files"></a>
@@ -43,7 +43,7 @@ rate with respect to US dollar. Also the implied purchasing power parity of each
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the medium post available [here]().
+The main findings of the code can be found at the medium post available [here](https://medium.com/@karvsmech/5-most-important-things-to-know-about-software-developers-f61eabfbef04).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
