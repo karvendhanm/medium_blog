@@ -43,7 +43,13 @@ rate with respect to US dollar. Also the implied purchasing power parity of each
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the medium post available [here](https://medium.com/@karvsmech/5-most-important-things-to-know-about-software-developers-f61eabfbef04).
+1) As expected, USA provides the best standard of living for its developers. Surprisingly countries like Saudi Arabia, South Africa, Thailand and Turkey have broken into top five.
+2) Developers who code as a hobby, like contributing to open source projects, do not seem to have a clear advantage over developers who don't code as a hobby with respect to salary.
+3) Job satisfaction has a clear association with salary. The better the salary is, the more the job satisfaction.
+4) Data scientists do earn more than non data scientists on average.
+5) Data scientists do not earn more than non data scientists in all countries. In some countries they earn more and in some countries they earn less than non data scientists.
+
+You could find more details and visuals at the medium blog post available [here](https://medium.com/@karvsmech/5-most-important-things-to-know-about-software-developers-f61eabfbef04).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
